@@ -69,5 +69,6 @@ else
 	then
 		echo "$thead";
 		printf '| %-20s' $result;
+		echo;
 	fi;
 fi;
